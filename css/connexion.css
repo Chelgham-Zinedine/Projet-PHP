@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #7ca1ff;
+}
+
+.title_page h1 {
+  font-size: 50px;
+  color: white;
+  margin-top:0px;
+  text-align: center;
+}
+
+.main_page {
+  display: flex;
+  margin-top: 90px;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+
+.background_main {
+  background-color: white;
+  width: 355px;
+  height: 500px;
+  margin-top: 95px;
+}
+
+.main_connecting {
+  margin-top: 50px;
+}
+
+.login_from_p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.username {
+  width: 270px;
+  height: 60px;
+  margin-top: 6px;
+}
+
+#password {
+  width: 270px;
+  height: 60px;
+  margin-top: 6px;
+}
+
+.p_email {
+  margin-right: 225px;
+}
+
+.p_mdp {
+  margin-top: 60px;
+  margin-right: 225px;
+}
+
+.forgot_a {
+  margin-right: 148px;
+}
+
+.main_form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main_form #login {
+  background-color: blue;
+  color: white;
+  padding: 20px 118px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+.signup_p_foot {
+  margin-right: 80px;
+}
