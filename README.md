@@ -1,2 +1,2 @@
 # Projet_PHP
-Projet de fin d'année en PHP / HTML / CSS
+Projet de fin d'année de DUT en PHP/HTML/CSS
